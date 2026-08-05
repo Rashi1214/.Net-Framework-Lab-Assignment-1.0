@@ -1,12 +1,12 @@
 <Solution>
-  <Project Path="Arithmetic Operations/Arithmetic Operations.csproj" />
-  <Project Path="assig/assig.csproj" />
-  <Project Path="Even and Odd Numbers Between 1 and N/Even and Odd Numbers Between 1 and N.csproj" />
-  <Project Path="Factorial Using For Loop/Factorial Using For Loop.csproj" />
-  <Project Path="Menu-Driven Program/Menu-Driven Program.csproj" />
-  <Project Path="ositive, Negative or Zero/ositive, Negative or Zero.csproj" />
-  <Project Path="Palindrome Number/Palindrome Number.csproj" />
-  <Project Path="Prime Number/Prime Number.csproj" />
-  <Project Path="Simple Calculator Using Switch/Simple Calculator Using Switch.csproj" />
-  <Project Path="Student Grade/Student Grade.csproj" />
+  <Project Path="Arithmetic Operations/Arithmetic Operations.csproj" Id="c7f401fe-6e64-41a3-add6-9db76dc6722f" />
+  <Project Path="assig/assig.csproj" Id="4cf5934b-35c2-4046-99e0-b87d8aeb1867" />
+  <Project Path="Even and Odd Numbers Between 1 and N/Even and Odd Numbers Between 1 and N.csproj" Id="2735434b-5d6f-4e2d-991c-94c058ced03a" />
+  <Project Path="Factorial Using For Loop/Factorial Using For Loop.csproj" Id="4d027c9f-de24-4809-9baa-582c3bdd7929" />
+  <Project Path="Menu-Driven Program/Menu-Driven Program.csproj" Id="b7038668-49e9-4d64-8969-5aeabfa26fb9" />
+  <Project Path="ositive, Negative or Zero/ositive, Negative or Zero.csproj" Id="9d5e19f7-100d-4b6d-b448-57aea031ee2a" />
+  <Project Path="Palindrome Number/Palindrome Number.csproj" Id="d809c4cd-e0b5-4a35-b16e-ca4a37dae8bb" />
+  <Project Path="Prime Number/Prime Number.csproj" Id="c670b7ff-43b1-42d0-8f26-f65d7b2944e7" />
+  <Project Path="Simple Calculator Using Switch/Simple Calculator Using Switch.csproj" Id="23d7d88d-0c80-4189-8e97-fd6739910bde" />
+  <Project Path="Student Grade/Student Grade.csproj" Id="120845b3-8dca-4f9e-82b9-6a4aa8c073e0" />
 </Solution>
