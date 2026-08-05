@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Arithmetic Operations/Arithmetic Operations.csproj" />
+  <Project Path="assig/assig.csproj" />
+  <Project Path="Even and Odd Numbers Between 1 and N/Even and Odd Numbers Between 1 and N.csproj" />
+  <Project Path="Factorial Using For Loop/Factorial Using For Loop.csproj" />
+  <Project Path="Menu-Driven Program/Menu-Driven Program.csproj" />
+  <Project Path="ositive, Negative or Zero/ositive, Negative or Zero.csproj" />
+  <Project Path="Palindrome Number/Palindrome Number.csproj" />
+  <Project Path="Prime Number/Prime Number.csproj" />
+  <Project Path="Simple Calculator Using Switch/Simple Calculator Using Switch.csproj" />
+  <Project Path="Student Grade/Student Grade.csproj" />
+</Solution>
